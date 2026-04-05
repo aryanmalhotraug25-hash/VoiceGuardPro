@@ -859,9 +859,9 @@ FRAUD_KEYWORDS = [
     "aadhaar", "pan", "kyc", "income tax", "irs", "government",
     "rbi", "sebi", "trai", "cbdt", "customs", "narcotics",
     "accident", "hospital", "kidnapped", "injured", "dead", "dying",
-    "help", "trapped", "ransom", "hostage",
+    "help", "trapped", "ransom", "hostage","suspension", "refund", "scam", "fraud", "fake",
     "virus", "hack", "hacked", "malware", "refund", "subscription",
-    "support", "customer care", "service", "update", "upgrade",
+    "support", "customer care", "service", "update", "upgrade","detection","detected","detect"
 ]
 
 PTS_PER_KW = 15; MAX_KW_SCORE = 40; AI_WEIGHT = 0.60
